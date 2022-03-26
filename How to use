@@ -1,0 +1,5 @@
+Functions " line() " and " linedbl() "
+eg: line('-',10);   | Enter a single charecter to be repeated then enter number of times.
+eg: linedbl('-','_',20);   | Enter a 2 charecters to be repeated then enter number of times. 
+Include this to your c file using  #include"line.h" .
+Put the header file in same folder as of the file to be include in.
